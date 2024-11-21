@@ -1,0 +1,51 @@
+@model Dictionary<string, decimal>
+
+@{
+    ViewData["Title"] = "Product Analytics Report";
+}
+
+<div class="container">
+    <h1 class="display-4 mb-4">Product Analytics Report</h1>
+
+    <div class="row">
+        <div class="col-md-6 mb-4">
+            <div class="card">
+                <div class="card-header bg-primary text-white">
+                    <h5 class="card-title mb-0">Average Price by Category</h5>
+                </div>
+                <div class="card-body">
+                    <div class="table-responsive">
+                        <table class="table">
+                            <thead>
+                                <tr>
+                                    <th>Category</th>
+                                    <th>Average Price</th>
+                                </tr>
+                            </thead>
+                            <tbody>
+                                @foreach (var category in Model)
+                                {
+                                    <tr>
+                                        <td>@category.Key</td>
+                                        <td>@category.Value.ToString("C2")</td>
+                                    </tr>
+                                }
+                            </tbody>
+                        </table>
+                    </div>
+                </div>
+            </div>
+        </div>
+
+        <div class="col-md-6 mb-4">
+            <div class="card">
+                <div class="card-header bg-success text-white">
+                    <h5 class="card-title mb-0">Highest Stock Value Category</h5>
+                </div>
+                <div class="card-body">
+                    <h3 class="text-center">@ViewBag.HighestStockCategory</h3>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>

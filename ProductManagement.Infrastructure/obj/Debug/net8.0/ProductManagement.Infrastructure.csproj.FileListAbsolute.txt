@@ -1,0 +1,17 @@
+D:\New GIT\ProductManagementApp\ProductManagement.Infrastructure\obj\Debug\net8.0\ProductManagement.Infrastructure.csproj.AssemblyReference.cache
+D:\New GIT\ProductManagementApp\ProductManagement.Infrastructure\obj\Debug\net8.0\ProductManagement.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+D:\New GIT\ProductManagementApp\ProductManagement.Infrastructure\obj\Debug\net8.0\ProductManagement.Infrastructure.AssemblyInfoInputs.cache
+D:\New GIT\ProductManagementApp\ProductManagement.Infrastructure\obj\Debug\net8.0\ProductManagement.Infrastructure.AssemblyInfo.cs
+D:\New GIT\ProductManagementApp\ProductManagement.Infrastructure\obj\Debug\net8.0\ProductManagement.Infrastructure.csproj.CoreCompileInputs.cache
+D:\New GIT\ProductManagementApp\ProductManagement.Infrastructure\bin\Debug\net8.0\ProductManagement.Infrastructure.deps.json
+D:\New GIT\ProductManagementApp\ProductManagement.Infrastructure\bin\Debug\net8.0\ProductManagement.Infrastructure.runtimeconfig.json
+D:\New GIT\ProductManagementApp\ProductManagement.Infrastructure\bin\Debug\net8.0\ProductManagement.Infrastructure.dll
+D:\New GIT\ProductManagementApp\ProductManagement.Infrastructure\bin\Debug\net8.0\ProductManagement.Infrastructure.pdb
+D:\New GIT\ProductManagementApp\ProductManagement.Infrastructure\bin\Debug\net8.0\ProductManagement.Core.dll
+D:\New GIT\ProductManagementApp\ProductManagement.Infrastructure\bin\Debug\net8.0\ProductManagement.Core.pdb
+D:\New GIT\ProductManagementApp\ProductManagement.Infrastructure\obj\Debug\net8.0\ProductM.6D34A66C.Up2Date
+D:\New GIT\ProductManagementApp\ProductManagement.Infrastructure\obj\Debug\net8.0\ProductManagement.Infrastructure.dll
+D:\New GIT\ProductManagementApp\ProductManagement.Infrastructure\obj\Debug\net8.0\refint\ProductManagement.Infrastructure.dll
+D:\New GIT\ProductManagementApp\ProductManagement.Infrastructure\obj\Debug\net8.0\ProductManagement.Infrastructure.pdb
+D:\New GIT\ProductManagementApp\ProductManagement.Infrastructure\obj\Debug\net8.0\ProductManagement.Infrastructure.genruntimeconfig.cache
+D:\New GIT\ProductManagementApp\ProductManagement.Infrastructure\obj\Debug\net8.0\ref\ProductManagement.Infrastructure.dll

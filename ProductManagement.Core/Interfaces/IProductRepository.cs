@@ -1,0 +1,14 @@
+using ProductManagement.Core.Entities;
+
+namespace ProductManagement.Core.Interfaces;
+
+public interface IProductRepository
+{
+    Task<IEnumerable<Product>> GetAllAsync();
+    Task<Product?> GetByIdAsync(int id);
+    Task<Product> CreateAsync(Product product);
+    Task UpdateAsync(Product product);
+    Task DeleteAsync(int id);
+    Task<Dictionary<string, decimal>> GetCategoryAveragesAsync();
+    Task<string> GetHighestStockValueCategoryAsync();
+}

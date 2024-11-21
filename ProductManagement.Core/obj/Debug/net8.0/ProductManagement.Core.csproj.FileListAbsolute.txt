@@ -1,0 +1,12 @@
+D:\New GIT\ProductManagementApp\ProductManagement.Core\obj\Debug\net8.0\ProductManagement.Core.GeneratedMSBuildEditorConfig.editorconfig
+D:\New GIT\ProductManagementApp\ProductManagement.Core\obj\Debug\net8.0\ProductManagement.Core.AssemblyInfoInputs.cache
+D:\New GIT\ProductManagementApp\ProductManagement.Core\obj\Debug\net8.0\ProductManagement.Core.AssemblyInfo.cs
+D:\New GIT\ProductManagementApp\ProductManagement.Core\obj\Debug\net8.0\ProductManagement.Core.csproj.CoreCompileInputs.cache
+D:\New GIT\ProductManagementApp\ProductManagement.Core\bin\Debug\net8.0\ProductManagement.Core.deps.json
+D:\New GIT\ProductManagementApp\ProductManagement.Core\bin\Debug\net8.0\ProductManagement.Core.dll
+D:\New GIT\ProductManagementApp\ProductManagement.Core\bin\Debug\net8.0\ProductManagement.Core.pdb
+D:\New GIT\ProductManagementApp\ProductManagement.Core\obj\Debug\net8.0\ProductManagement.Core.csproj.AssemblyReference.cache
+D:\New GIT\ProductManagementApp\ProductManagement.Core\obj\Debug\net8.0\ProductManagement.Core.dll
+D:\New GIT\ProductManagementApp\ProductManagement.Core\obj\Debug\net8.0\refint\ProductManagement.Core.dll
+D:\New GIT\ProductManagementApp\ProductManagement.Core\obj\Debug\net8.0\ProductManagement.Core.pdb
+D:\New GIT\ProductManagementApp\ProductManagement.Core\obj\Debug\net8.0\ref\ProductManagement.Core.dll
